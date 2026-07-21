@@ -42,7 +42,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - Tên nhân vật **giữ nguyên** theo quy định bên dưới, không tự ý đổi.
 - Nếu tên nhân vật chưa có trong danh sách, **giữ nguyên phiên âm gốc** (romaji, pinyin, hoặc tên gốc).
 - Xưng hô giữa các nhân vật phải **nhất quán** và **phù hợp mối quan hệ** (anh/em, em/ngài, tôi/cậu, ta/cậu v.v.).
-- **Xưng hô giữa Lucia và Cry**: Lucia xưng "em", gọi Cry là "Leader" trong đối thoại trực tiếp (nhưng sử dụng đại từ "anh" khi nói về Cry/chỉ Cry trong câu). Cry gọi Lucia là "em".
+- **Xưng hô giữa Lucia và Cry**: Lucia xưng "em", gọi Cry là "Lãnh đạo" trong đối thoại trực tiếp (nhưng sử dụng đại từ "anh" khi nói về Cry/chỉ Cry trong câu). Cry gọi Lucia là "em".
 - **Giữ nguyên các hậu tố danh xưng/kính ngữ** trong tiếng Nhật (như `-sama`, `-san`, `-kun`, `-chan`) ở tên nhân vật thay vì dịch sang tiếng Việt (ví dụ: `Adler-sama` thay vì `Ngài Adler`, `Cry-chan` thay vì `Cry bé bỏng`).
 
 
@@ -118,7 +118,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - Giữ nguyên **cấu trúc đoạn văn** như bản gốc.
 - Giữ nguyên **các ký hiệu đặc biệt** (★, ♪, ※, v.v.) nếu có trong bản gốc.
 - **Mỗi chương truyện** được gửi dịch sẽ được lưu thành **1 file `.md` riêng biệt**, đặt tên file theo **số chương** (ví dụ: chương 1 → `1.md`, chương 2 → `2.md`, chương 125 → `125.md`, v.v.).
-
+- Không cần kiểm tra trạng thái git khi dịch.
 ---
 
 > **Hướng dẫn cập nhật**: Khi cần thêm tên nhân vật hoặc thuật ngữ cho bộ truyện mới, hãy cập nhật phần "Danh sách tên nhân vật" ở mục 3 và "Danh sách thuật ngữ" ở mục 4.
