@@ -27,6 +27,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - Sử dụng **dấu câu** đúng chuẩn tiếng Việt.
 - Duy trì **nhất quán** về văn phong, cách xưng hô xuyên suốt bản dịch.
 - Các từ ngữ biểu cảm, thán từ nên được **Việt hóa tự nhiên** (ví dụ: "くそ" → "Chết tiệt", không phải "Kuso").
+- **Từ tượng thanh (Onomatopoeia)**: Giữ nguyên dạng tượng thanh thay vì dịch thành âm phát âm tiếng Việt (ví dụ: tiếng tặc lưỡi "チッ" → "Tsk" / "Tsk...", không dịch thành "Chít").
 - **Giọng văn nội tâm** (suy nghĩ của nhân vật chính): sử dụng **văn phong đời thường, thoải mái**, có thể dùng ngôn ngữ bông đùa, tự giễu, phản ứng cảm thán tự nhiên. Tránh dùng giọng văn quá trang trọng hay cứng nhắc cho phần nội tâm.
 - **Khẩu ngữ đặc trưng** của nhân vật cần được giữ nguyên (ví dụ: nhân vật luôn nói "desu" ở cuối câu → giữ nguyên "desu" trong bản dịch để thể hiện cá tính).
 - Ưu tiên **cách diễn đạt tự nhiên trong tiếng Việt** hơn là dịch sát từng từ. Ví dụ: "思わずため息が出る" → "Tôi bất giác thở dài" thay vì "Một tiếng thở dài không tự chủ thoát ra".
@@ -36,14 +37,36 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - **Viết tắt đơn vị đo lường** phổ biến: km, m, kg, v.v. — không cần viết đầy đủ "kilômét".
 
 
-## 3. Quy Tắc Tên Nhân Vật
+## 3. Quy Tắc Xưng Hô
+
+### Quy tắc chung:
+- **Xưng hô phải phù hợp với quan hệ giữa các nhân vật đang nói chuyện**: Trước khi dịch hội thoại, xác định rõ nhân vật nào đang nói với nhân vật nào. Xưng hô (tôi/em/mình, bạn/cô/chị...) phải phản ánh đúng mối quan hệ (bạn bè ngang hàng, cấp trên/dưới, quen biết/xa lạ). Ví dụ: Sytry, Cry nói chuyện với Serene (ngang hàng, không phải bề trên) → dùng "tôi", không dùng "em"; Lucia nói với Cry (anh trai/lãnh đạo) → dùng "em".
+- Xưng hô giữa các nhân vật phải **nhất quán** và **phù hợp mối quan hệ** (anh/em, em/ngài, tôi/cậu, ta/cậu v.v.).
+- **Giữ nguyên các hậu tố danh xưng/kính ngữ và cách gọi họ hàng** trong tiếng Nhật (như `-sama`, `-san`, `-kun`, `-chan`, `Nii-san`, `Onee-chan`) thay vì dịch sang tiếng Việt (ví dụ: `Adler-sama` thay vì `Ngài Adler`, `Nii-san` thay vì `anh`, `Onee-chan` thay vì `chị hai`).
+- **リーダー (Leader) trong hội thoại** dịch thành **"Lãnh đạo"**, không giữ nguyên "Leader".
+- **Cách Adler gọi/nhắc đến Cry (《Thiên Biến Vạn Hóa》)**: Dùng **"hắn ta" / "hắn"** (không dùng "ông ta").
+
+### Bảng xưng hô giữa các nhân vật:
+
+> Ký hiệu: **A → B** = A nói chuyện với/về B. Cột "Tự xưng" = cách A tự gọi mình. Cột "Gọi đối phương" = cách A gọi B.
+
+| Người nói (A) | Người nghe (B) | Tự xưng (A) | Gọi đối phương (B) | Ghi chú |
+|---|---|---|---|---|
+| Lucia | Cry | em | Lãnh đạo / Nii-san | "Lãnh đạo" khi ở vai trò thuộc cấp; "Nii-san" khi vô tình/bất ngờ (giữ nguyên, không dịch) |
+| Cry | Lucia | anh | em | |
+| Sytry | Serene | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
+| Cry | Serene | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
+| Serene | Cry | tôi | cậu | Quan hệ ngang hàng |
+| Adler | Cry (nhắc đến) | — | hắn / hắn ta | Không dùng "ông ta" |
+| Adler | Cry (nói chuyện trực tiếp) | ta | ngươi | Quan hệ ngang hàng |
+
+
+## 4. Quy Tắc Tên Nhân Vật
 
 ### Quy tắc chung:
 - Tên nhân vật **giữ nguyên** theo quy định bên dưới, không tự ý đổi.
 - Nếu tên nhân vật chưa có trong danh sách, **giữ nguyên phiên âm gốc** (romaji, pinyin, hoặc tên gốc).
-- Xưng hô giữa các nhân vật phải **nhất quán** và **phù hợp mối quan hệ** (anh/em, em/ngài, tôi/cậu, ta/cậu v.v.).
-- **Xưng hô giữa Lucia và Cry**: Lucia xưng "em", gọi Cry là "Lãnh đạo" trong đối thoại trực tiếp (nhưng sử dụng đại từ "anh" khi nói về Cry/chỉ Cry trong câu). Cry gọi Lucia là "em".
-- **Giữ nguyên các hậu tố danh xưng/kính ngữ** trong tiếng Nhật (như `-sama`, `-san`, `-kun`, `-chan`) ở tên nhân vật thay vì dịch sang tiếng Việt (ví dụ: `Adler-sama` thay vì `Ngài Adler`, `Cry-chan` thay vì `Cry bé bỏng`).
+- Tên nhân vật phải **nhất quán** xuyên suốt bản dịch.
 
 
 ### Danh sách tên nhân vật:
@@ -56,7 +79,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ルシア | Lucia | Thành viên clan |
 | エリザ | Eliza | Thành viên clan |
 | ティノ | Tino | Thành viên clan |
-| シトリー | Sytry | Thành viên clan |
+| シトリー | Sytry | Thành viên clan; Khi có nhân vật khác (vd: lucia) gọi bằng nickname. Dùng **Syt** |
 | ラピス | Lapis | Tinh linh nhân |
 | クリュス | Kruz | Tinh linh nhân |
 | セレン | Serene | Tinh linh nhân, hoàng gia Yggdra, người dẫn đường |
@@ -67,11 +90,13 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | アーク | Ark | Nhân vật phụ |
 | ロダン家 | Gia tộc Rodin | Gia tộc dũng giả |
 | エクシード・ジークエンス | Exceed Sequence | Thợ săn cấp 10 |
-| アドラー | Adler | Nhân vật phụ, giới tính nữ (dùng "cô", "cô ta" khi nhắc tới) |
+| アドラー | Adler | **Nữ** — Thuần thú sư; dùng "cô ta/cô ấy", không dùng "anh ta" |
+| ウーノ・シルヴァ | Uno Silva | Nữ — Thánh Linh Sư, thành viên nhóm Adler |
+| クイント・ジェント | Quint Gent | Nam — Kiếm sĩ, Tướng quân 《Thiên Quỷ Dạ Hành》 |
 
 ---
 
-## 4. Quy Tắc Dịch Tên Riêng & Thuật Ngữ
+## 5. Quy Tắc Dịch Tên Riêng & Thuật Ngữ
 
 > **Nguyên tắc chung**: Ưu tiên **diễn giải bằng tiếng Việt dễ hiểu** thay vì dịch Hán-Việt cứng nhắc. Thuật ngữ game/fantasy nên dịch sao cho người đọc Việt Nam hiểu ngay mà không cần tra cứu. Các thuật ngữ đã phổ biến trong cộng đồng (như Mana Material) thì **giữ nguyên**.
 
@@ -92,7 +117,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 白亜の花園プリズム・ガーデン | Hoa Viên | Địa điểm | Rút gọn, dùng tên ngắn |
 | 嘆きの亡霊 | Strange Grief | Tên clan | Giữ nguyên tiếng Anh |
 | 迷い宿 | Nhà trọ đã mất | Địa điểm | Dịch nghĩa |
-| ヨワニンゲン | Yowaningen | Biệt danh | Giữ nguyên romaji (biệt danh "con người yếu đuối") |
+| ヨワニンゲン | Yowaningen | Biệt danh của Cry khi Kruz gọi| Giữ nguyên romaji (biệt danh "con người yếu đuối") khi được Kruz dùng để nói về Cry |
 | みみっくん | Mimic-kun | Nhân vật/Vật phẩm | Giữ nguyên romaji |
 | ハンター | Thợ săn | Nghề nghiệp | Dịch nghĩa, không giữ "Hunter" |
 | 術者 (じゅつしゃ) | Pháp sư | Nghề nghiệp | Dịch "thuật giả" thành "pháp sư" |
@@ -107,18 +132,23 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | リーダー | Lãnh đạo | Danh từ | Thuật ngữ chỉ người lãnh đạo, người đứng đầu nhóm |
 | 魔導技術 (まどうぎじゅつ) | Công nghệ phép thuật | Khái niệm | Kỹ thuật ma pháp của Tinh linh nhân |
 | よし / よっしゃ | Yosh | Thán từ / Biểu cảm | Được rồi, Nào, Yosh |
-| 起源の神殿 (きげんのしんでん) | Đền Khởi Nguyên | Địa điểm | |
-| 戦鬼夜行 (せんきやこう) | Bách Quỷ Dạ Hành | Tên clan | Clan của Yuden |
+| 源神殿 (げんしんでん) | Nguyên thần điện | Địa điểm | |
+| 現人鏡 (あらひとのかがみ) | gương hiện thực | Vật phẩm | Thánh tích của Adler |
+| 神算鬼謀 (しんさんきぼう) | Chiến lược gia thần thánh | Danh xưng | Năng lực / Biệt danh chỉ tài mưu lược của Cry |
+| チッ | Tsk | Từ tượng thanh | Âm tặc lưỡi thể hiện sự bực bội |
+| 賊 (ぞく) | bọn cướp | Danh từ | Từ chỉ nhóm đối thủ/tặc bối |
+| 不動不変 (ふどうふへん) | Bất Di Bất Dịch | Danh hiệu | Danh hiệu của Anthem Smart — hộ vệ kỵ sĩ hàng đầu Zebuldia |
+| 万象自在 (まんしょうじざい) | Toàn Năng | Danh hiệu | Danh hiệu của Lucia Rogier |
 
 ---
 
-## 5. Định Dạng Output
+## 6. Định Dạng Output
 
 - Chỉ xuất ra **bản dịch tiếng Việt**, không kèm bản gốc (trừ khi được yêu cầu).
 - Giữ nguyên **cấu trúc đoạn văn** như bản gốc.
 - Giữ nguyên **các ký hiệu đặc biệt** (★, ♪, ※, v.v.) nếu có trong bản gốc.
 - **Mỗi chương truyện** được gửi dịch sẽ được lưu thành **1 file `.md` riêng biệt**, đặt tên file theo **số chương** (ví dụ: chương 1 → `1.md`, chương 2 → `2.md`, chương 125 → `125.md`, v.v.).
-- Không cần kiểm tra trạng thái git khi dịch.
+
 ---
 
 > **Hướng dẫn cập nhật**: Khi cần thêm tên nhân vật hoặc thuật ngữ cho bộ truyện mới, hãy cập nhật phần "Danh sách tên nhân vật" ở mục 3 và "Danh sách thuật ngữ" ở mục 4.
