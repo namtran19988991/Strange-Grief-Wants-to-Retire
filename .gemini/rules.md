@@ -61,7 +61,13 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Cry | Tino | ta | em | Cry có địa vị cao hơn Tino |
 | Cry | Eliza | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
 | Cry | em gái cáo | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
-| Cry | Eva | tôi | cô | Quan hệ ngang hàng |
+| Cry | Eva | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
+| Cry | Franz | tôi | ông | Quan hệ ngang hàng |
+| Franz | Cry | ngươi | ta | Quan hệ ngang hàng |
+| Grak | Cry | cậu | ta | Quan hệ ngang hàng |
+| Cry | Grak | ông | tôi | Quan hệ ngang hàng |
+| Zultan | Cry | tôi | cậu | Quan hệ ngang hàng |
+| Cry | Zultan | tôi | ông | Quan hệ ngang hàng |
 | em gái cáo | Cry/Không cảm thấy nguy hiểm-san (biệt danh của cry do em gái cáo gọi) | ta | ngươi | Quan hệ ngang hàng |
 | Eliza | Cry | tôi | cậu | Quan hệ ngang hàng |
 | Sytry | Serene | tôi | Serene-san / cô | Quan hệ ngang hàng |
@@ -152,6 +158,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 千の試練 (せんのしれん) | Vô tận thử thách | Khái niệm | Biệt danh cho chuỗi thử thách của Cry |
 | リーダー | Lãnh đạo | Danh từ | Thuật ngữ chỉ người lãnh đạo, người đứng đầu nhóm |
 | クランマスター | Clan Master | Danh từ | Giữ nguyên Clan Master, không dịch thành Trưởng clan |
+| 本部 (ほんぶ) | trụ sở | Khái niệm / Tổ chức | Trụ sở Hiệp hội Thợ săn (không dùng "hội sở chính") |
 | 魔導技術 (まどうぎじゅつ) | Công nghệ phép thuật | Khái niệm | Kỹ thuật ma pháp của Tinh linh nhân |
 | よし / よっしゃ | Yosh | Thán từ / Biểu cảm | Được rồi, Nào, Yosh |
 | えー / えっ | Eh | Từ tượng thanh | Giữ nguyên, biểu thị sự ngạc nhiên |
