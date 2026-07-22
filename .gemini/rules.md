@@ -27,7 +27,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - Sử dụng **dấu câu** đúng chuẩn tiếng Việt.
 - Duy trì **nhất quán** về văn phong, cách xưng hô xuyên suốt bản dịch.
 - Các từ ngữ biểu cảm, thán từ nên được **Việt hóa tự nhiên** (ví dụ: "くそ" → "Chết tiệt", không phải "Kuso").
-- **Từ tượng thanh (Onomatopoeia)**: Giữ nguyên dạng tượng thanh thay vì dịch thành âm phát âm tiếng Việt (ví dụ: tiếng tặc lưỡi "チッ" → "Tsk" / "Tsk...", không dịch thành "Chít").
+- **Từ tượng thanh (Onomatopoeia)**: Giữ nguyên dạng tượng thanh thay vì dịch hẳn thành tiếng Việt đối với các từ như tiếng cười, tiếng tặc lưỡi v.v. (ví dụ: tiếng tặc lưỡi "チッ" → "Tsk", tiếng cười "く……くくッ" → "Kuh…… Kukuh…………", "fufufu", "guhh". v.v).
 - **Giọng văn nội tâm** (suy nghĩ của nhân vật chính): sử dụng **văn phong đời thường, thoải mái**, có thể dùng ngôn ngữ bông đùa, tự giễu, phản ứng cảm thán tự nhiên. Tránh dùng giọng văn quá trang trọng hay cứng nhắc cho phần nội tâm.
 - **Khẩu ngữ đặc trưng** của nhân vật cần được giữ nguyên (ví dụ: nhân vật luôn nói "desu" ở cuối câu → giữ nguyên "desu" trong bản dịch để thể hiện cá tính).
 - Ưu tiên **cách diễn đạt tự nhiên trong tiếng Việt** hơn là dịch sát từng từ. Ví dụ: "思わずため息が出る" → "Tôi bất giác thở dài" thay vì "Một tiếng thở dài không tự chủ thoát ra".
@@ -41,10 +41,13 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 
 ### Quy tắc chung:
 - **Xưng hô phải phù hợp với quan hệ giữa các nhân vật đang nói chuyện**: Trước khi dịch hội thoại, xác định rõ nhân vật nào đang nói với nhân vật nào. Xưng hô (tôi/em/mình, bạn/cô/chị...) phải phản ánh đúng mối quan hệ (bạn bè ngang hàng, cấp trên/dưới, quen biết/xa lạ). Ví dụ: Sytry, Cry nói chuyện với Serene (ngang hàng, không phải bề trên) → dùng "tôi", không dùng "em"; Lucia nói với Cry (anh trai/lãnh đạo) → dùng "em".
+- **khi trong đoạn hội thoại, nhân vật đang không trao đổi với ai mà chỉ độc thoại thì phải dùng ngôi Xưng hô phù hợp với người đang được nhắc đến** Ví dụ: Sytry độc thoại → dùng ngôi tôi
 - Xưng hô giữa các nhân vật phải **nhất quán** và **phù hợp mối quan hệ** (anh/em, em/ngài, tôi/cậu, ta/cậu v.v.).
-- **Giữ nguyên các hậu tố danh xưng/kính ngữ và cách gọi họ hàng** trong tiếng Nhật (như `-sama`, `-san`, `-kun`, `-chan`, `Nii-san`, `Onee-chan`) thay vì dịch sang tiếng Việt (ví dụ: `Adler-sama` thay vì `Ngài Adler`, `Nii-san` thay vì `anh`, `Onee-chan` thay vì `chị hai`).
+- **Giữ nguyên các hậu tố danh xưng/kính ngữ và cách gọi họ hàng** trong tiếng Nhật (như `-sama`, `-san`, `-kun`, `-chan`, `Nii-san`, `Onee-chan`) thay vì dịch sang tiếng Việt (ví dụ: `Adler-sama` thay vì `Ngài Adler`, `Nii-chan` thay vì `anh`, `Onee-chan` thay vì `chị hai`).
 - **リーダー (Leader) trong hội thoại** dịch thành **"Lãnh đạo"**, không giữ nguyên "Leader".
 - **Cách Adler gọi/nhắc đến Cry (《Thiên Biến Vạn Hóa》)**: Dùng **"hắn ta" / "hắn"** (không dùng "ông ta").
+- **Cách gọi/nhắc đến Keller (Thần linh)**: Dùng **"hắn ta" / "hắn"** (không dùng "ông ta").
+- **Khi Cry nhắc đến Tino, Liz, Sytry (ngôi thứ 3 trong suy nghĩ / lời kể)**: Dùng **"em ấy"** (không dùng "cô ấy" hay "cô bé").
 
 ### Bảng xưng hô giữa các nhân vật:
 
@@ -52,14 +55,16 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 
 | Người nói (A) | Người nghe (B) | Tự xưng (A) | Gọi đối phương (B) | Ghi chú |
 |---|---|---|---|---|
-| Lucia | Cry | em | Lãnh đạo / Nii-san | "Lãnh đạo" khi ở vai trò thuộc cấp; "Nii-san" khi vô tình/bất ngờ (giữ nguyên, không dịch) |
+| Lucia | Cry | em | Lãnh đạo / Nii-chan | "Lãnh đạo" khi ở vai trò thuộc cấp; "Nii-chan" khi vô tình/bất ngờ (giữ nguyên, không dịch) |
 | Cry | Lucia | anh | em | |
+| Cry | Tino | ta | em | Cry có địa vị cao hơn Tino |
 | Sytry | Serene | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
 | Cry | Serene | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
 | Serene | Cry | tôi | cậu | Quan hệ ngang hàng |
 | Adler | Cry (nhắc đến) | — | hắn / hắn ta | Không dùng "ông ta" |
 | Adler | Cry (nói chuyện trực tiếp) | ta | ngươi | Quan hệ ngang hàng |
-
+| Adler | Thần linh (Keller) | tôi | người | Keller là Thần linh, có địa vị cao hơn Adler |
+| Kruz | Cry | ta | ngươi | Quan hệ ngang hàng|
 
 ## 4. Quy Tắc Tên Nhân Vật
 
@@ -93,6 +98,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | アドラー | Adler | **Nữ** — Thuần thú sư; dùng "cô ta/cô ấy", không dùng "anh ta" |
 | ウーノ・シルヴァ | Uno Silva | Nữ — Thánh Linh Sư, thành viên nhóm Adler |
 | クイント・ジェント | Quint Gent | Nam — Kiếm sĩ, Tướng quân 《Thiên Quỷ Dạ Hành》 |
+| ルイン | Ruin | Tinh linh nhân |
 
 ---
 
@@ -119,6 +125,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 迷い宿 | Nhà trọ đã mất | Địa điểm | Dịch nghĩa |
 | ヨワニンゲン | Yowaningen | Biệt danh của Cry khi Kruz gọi| Giữ nguyên romaji (biệt danh "con người yếu đuối") khi được Kruz dùng để nói về Cry |
 | みみっくん | Mimic-kun | Nhân vật/Vật phẩm | Giữ nguyên romaji |
+| カーくん | Thảm-kun | Nhân vật/Vật phẩm | Thánh tích thảm bay |
+| キルキル君 | Kill Kill-kun | Nhân vật/Vật phẩm | Sinh vật ma thuật của Sytry |
 | ハンター | Thợ săn | Nghề nghiệp | Dịch nghĩa, không giữ "Hunter" |
 | 術者 (じゅつしゃ) | Pháp sư | Nghề nghiệp | Dịch "thuật giả" thành "pháp sư" |
 | 皇族 (こうぞく) | Hoàng Tộc | Khái niệm | Dịch thành "Hoàng tộc" |
@@ -132,6 +140,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | リーダー | Lãnh đạo | Danh từ | Thuật ngữ chỉ người lãnh đạo, người đứng đầu nhóm |
 | 魔導技術 (まどうぎじゅつ) | Công nghệ phép thuật | Khái niệm | Kỹ thuật ma pháp của Tinh linh nhân |
 | よし / よっしゃ | Yosh | Thán từ / Biểu cảm | Được rồi, Nào, Yosh |
+| えー / えっ | Eh | Từ tượng thanh | Giữ nguyên, biểu thị sự ngạc nhiên |
 | 源神殿 (げんしんでん) | Nguyên thần điện | Địa điểm | |
 | 現人鏡 (あらひとのかがみ) | gương hiện thực | Vật phẩm | Thánh tích của Adler |
 | 神算鬼謀 (しんさんきぼう) | Chiến lược gia thần thánh | Danh xưng | Năng lực / Biệt danh chỉ tài mưu lược của Cry |
@@ -148,7 +157,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - Giữ nguyên **cấu trúc đoạn văn** như bản gốc.
 - Giữ nguyên **các ký hiệu đặc biệt** (★, ♪, ※, v.v.) nếu có trong bản gốc.
 - **Mỗi chương truyện** được gửi dịch sẽ được lưu thành **1 file `.md` riêng biệt**, đặt tên file theo **số chương** (ví dụ: chương 1 → `1.md`, chương 2 → `2.md`, chương 125 → `125.md`, v.v.).
-
+- Không cần kiểm tra trạng thái git.
 ---
 
 > **Hướng dẫn cập nhật**: Khi cần thêm tên nhân vật hoặc thuật ngữ cho bộ truyện mới, hãy cập nhật phần "Danh sách tên nhân vật" ở mục 3 và "Danh sách thuật ngữ" ở mục 4.
