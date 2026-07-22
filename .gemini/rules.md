@@ -43,7 +43,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - **Xưng hô phải phù hợp với quan hệ giữa các nhân vật đang nói chuyện**: Trước khi dịch hội thoại, xác định rõ nhân vật nào đang nói với nhân vật nào. Xưng hô (tôi/em/mình, bạn/cô/chị...) phải phản ánh đúng mối quan hệ (bạn bè ngang hàng, cấp trên/dưới, quen biết/xa lạ). Ví dụ: Sytry, Cry nói chuyện với Serene (ngang hàng, không phải bề trên) → dùng "tôi", không dùng "em"; Lucia nói với Cry (anh trai/lãnh đạo) → dùng "em".
 - **khi trong đoạn hội thoại, nhân vật đang không trao đổi với ai mà chỉ độc thoại thì phải dùng ngôi Xưng hô phù hợp với người đang được nhắc đến** Ví dụ: Sytry độc thoại → dùng ngôi tôi
 - Xưng hô giữa các nhân vật phải **nhất quán** và **phù hợp mối quan hệ** (anh/em, em/ngài, tôi/cậu, ta/cậu v.v.).
-- **Giữ nguyên các hậu tố danh xưng/kính ngữ và cách gọi họ hàng** trong tiếng Nhật (như `-sama`, `-san`, `-kun`, `-chan`, `Nii-san`, `Onee-chan`) thay vì dịch sang tiếng Việt (ví dụ: `Adler-sama` thay vì `Ngài Adler`, `Nii-chan` thay vì `anh`, `Onee-chan` thay vì `chị hai`).
+- **Giữ nguyên các hậu tố danh xưng/kính ngữ và cách gọi họ hàng** trong tiếng Nhật (như `-sama`, `-san`, `-kun`, `-chan`, `Nii-san`, `Onee-chan`) thay vì dịch sang tiếng Việt (ví dụ: `Adler-sama` thay vì `Ngài Adler`, `Nii-chan` thay vì `anh`, `Onee-chan` thay vì `chị hai`). 
+- **giữ nguyên hậu tố khi gọi/nhắc đến tên nhân vật** (ví dụ: không dịch thành "cô Serene" mà giữ nguyên Serene-san)
 - **リーダー (Leader) trong hội thoại** dịch thành **"Lãnh đạo"**, không giữ nguyên "Leader".
 - **Cách Adler gọi/nhắc đến Cry (《Thiên Biến Vạn Hóa》)**: Dùng **"hắn ta" / "hắn"** (không dùng "ông ta").
 - **Cách gọi/nhắc đến Keller (Thần linh)**: Dùng **"hắn ta" / "hắn"** (không dùng "ông ta").
@@ -58,13 +59,18 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Lucia | Cry | em | Lãnh đạo / Nii-chan | "Lãnh đạo" khi ở vai trò thuộc cấp; "Nii-chan" khi vô tình/bất ngờ (giữ nguyên, không dịch) |
 | Cry | Lucia | anh | em | |
 | Cry | Tino | ta | em | Cry có địa vị cao hơn Tino |
-| Sytry | Serene | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
+| Cry | Eliza | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
+| Eliza | Cry | tôi | cậu | Quan hệ ngang hàng |
+| Sytry | Serene | tôi | Serene-san / cô | Quan hệ ngang hàng |
+| Sytry | Liz | em | chị | Quan hệ chị em |
 | Cry | Serene | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
 | Serene | Cry | tôi | cậu | Quan hệ ngang hàng |
 | Adler | Cry (nhắc đến) | — | hắn / hắn ta | Không dùng "ông ta" |
 | Adler | Cry (nói chuyện trực tiếp) | ta | ngươi | Quan hệ ngang hàng |
 | Adler | Thần linh (Keller) | tôi | người | Keller là Thần linh, có địa vị cao hơn Adler |
 | Kruz | Cry | ta | ngươi | Quan hệ ngang hàng|
+| Tino | Liz | em | onee-sama (Giữ nguyên, không dịch) | Quan hệ chị em |
+| Cry | Anthem (nhắc đến) | — | anh ấy / Anthem | Dùng "anh ấy" khi nhắc đến Anthem |
 
 ## 4. Quy Tắc Tên Nhân Vật
 
