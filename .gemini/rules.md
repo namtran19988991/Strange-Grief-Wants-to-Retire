@@ -148,6 +148,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 星の聖雷 (ほしのせいらい) | Star Light | Tên clan | Clan của Kruz, Tinh linh nhân |
 | 千の試練 (せんのしれん) | Vô tận thử thách | Khái niệm | Biệt danh cho chuỗi thử thách của Cry |
 | リーダー | Lãnh đạo | Danh từ | Thuật ngữ chỉ người lãnh đạo, người đứng đầu nhóm |
+| クランマスター | Clan Master | Danh từ | Giữ nguyên Clan Master, không dịch thành Trưởng clan |
 | 魔導技術 (まどうぎじゅつ) | Công nghệ phép thuật | Khái niệm | Kỹ thuật ma pháp của Tinh linh nhân |
 | よし / よっしゃ | Yosh | Thán từ / Biểu cảm | Được rồi, Nào, Yosh |
 | えー / えっ | Eh | Từ tượng thanh | Giữ nguyên, biểu thị sự ngạc nhiên |
