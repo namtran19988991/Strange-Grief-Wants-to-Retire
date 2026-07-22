@@ -27,7 +27,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - Sử dụng **dấu câu** đúng chuẩn tiếng Việt.
 - Duy trì **nhất quán** về văn phong, cách xưng hô xuyên suốt bản dịch.
 - Các từ ngữ biểu cảm, thán từ nên được **Việt hóa tự nhiên** (ví dụ: "くそ" → "Chết tiệt", không phải "Kuso").
-- **Từ tượng thanh (Onomatopoeia)**: Giữ nguyên dạng tượng thanh thay vì dịch hẳn thành tiếng Việt đối với các từ như tiếng cười, tiếng tặc lưỡi v.v. (ví dụ: tiếng tặc lưỡi "チッ" → "Tsk", tiếng cười "く……くくッ" → "Kuh…… Kukuh…………", "fufufu", "guhh". v.v).
+- **Từ tượng thanh (Onomatopoeia)**: **Bắt buộc** giữ nguyên dạng tượng thanh phiên âm tiếng việt thay vì dịch hẳn thành chữ cái tiếng Việt đối với các từ như tiếng cười, tiếng tặc lưỡi, tiếng gầm, tiếng thở dốc v.v. (ví dụ: tiếng tặc lưỡi "チッ" → "Tsk", tiếng cười "く……くくッ" → "Kuh…… Kukuh…………", "fufufu", "guhh", "gaaahhhh", haaa...haa... v.v).
 - **Giọng văn nội tâm** (suy nghĩ của nhân vật chính): sử dụng **văn phong đời thường, thoải mái**, có thể dùng ngôn ngữ bông đùa, tự giễu, phản ứng cảm thán tự nhiên. Tránh dùng giọng văn quá trang trọng hay cứng nhắc cho phần nội tâm.
 - **Khẩu ngữ đặc trưng** của nhân vật cần được giữ nguyên (ví dụ: nhân vật luôn nói "desu" ở cuối câu → giữ nguyên "desu" trong bản dịch để thể hiện cá tính).
 - Ưu tiên **cách diễn đạt tự nhiên trong tiếng Việt** hơn là dịch sát từng từ. Ví dụ: "思わずため息が出る" → "Tôi bất giác thở dài" thay vì "Một tiếng thở dài không tự chủ thoát ra".
@@ -40,7 +40,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 ## 3. Quy Tắc Xưng Hô
 
 ### Quy tắc chung:
-- **Xưng hô phải phù hợp với quan hệ giữa các nhân vật đang nói chuyện**: Trước khi dịch hội thoại, xác định rõ nhân vật nào đang nói với nhân vật nào. Xưng hô (tôi/em/mình, bạn/cô/chị...) phải phản ánh đúng mối quan hệ (bạn bè ngang hàng, cấp trên/dưới, quen biết/xa lạ). Ví dụ: Sytry, Cry nói chuyện với Serene (ngang hàng, không phải bề trên) → dùng "tôi", không dùng "em"; Lucia nói với Cry (anh trai/lãnh đạo) → dùng "em".
+- **Xưng hô phải phù hợp với quan hệ giữa các nhân vật đang nói chuyện**: Trước khi dịch hội thoại, xác định rõ nhân vật nào đang nói với nhân vật nào. Xưng hô (tôi/em/mình, bạn/cô/chị...) phải phản ánh đúng mối quan hệ (bạn bè ngang hàng, cấp trên/dưới, quen biết/xa lạ). Ví dụ: Sytry, Cry nói chuyện với Serene (ngang hàng, không phải bề trên) → dùng "tôi", không dùng "em"; Lucia nói với Cry (anh trai/lãnh đạo) → dùng "em". Nếu chưa thể xác định ngay cách xưng hô hoặc không có đủ ngữ cảnh. Hãy tham khảo thêm từ các chương trước hoặc dựa vào nội dung đoạn hội thoại để xác định cách xưng hô cho hợp lý (vd: nội dung thể hiện cảm xúc tình yêu → dùng anh-em, thể hiện sự tức giận → dùng ta-ngươi. trao đổi thông thường dùng -> tôi - cô/cậu )
 - **khi trong đoạn hội thoại, nhân vật đang không trao đổi với ai mà chỉ độc thoại thì phải dùng ngôi Xưng hô phù hợp với người đang được nhắc đến** Ví dụ: Sytry độc thoại → dùng ngôi tôi
 - Xưng hô giữa các nhân vật phải **nhất quán** và **phù hợp mối quan hệ** (anh/em, em/ngài, tôi/cậu, ta/cậu v.v.).
 - **Giữ nguyên các hậu tố danh xưng/kính ngữ và cách gọi họ hàng** trong tiếng Nhật (như `-sama`, `-san`, `-kun`, `-chan`, `Nii-san`, `Onee-chan`) thay vì dịch sang tiếng Việt (ví dụ: `Adler-sama` thay vì `Ngài Adler`, `Nii-chan` thay vì `anh`, `Onee-chan` thay vì `chị hai`). 
