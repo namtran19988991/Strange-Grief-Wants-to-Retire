@@ -60,6 +60,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Cry | Lucia | anh | em | |
 | Cry | Tino | ta | em | Cry có địa vị cao hơn Tino |
 | Cry | Eliza | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
+| Cry | em gái cáo | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
+| em gái cáo | Cry | ta | ngươi | Quan hệ ngang hàng |
 | Eliza | Cry | tôi | cậu | Quan hệ ngang hàng |
 | Sytry | Serene | tôi | Serene-san / cô | Quan hệ ngang hàng |
 | Sytry | Liz | em | chị | Quan hệ chị em |
@@ -131,6 +133,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 迷い宿 | Nhà trọ đã mất | Địa điểm | Dịch nghĩa |
 | ヨワニンゲン | Yowaningen | Biệt danh của Cry khi Kruz gọi| Giữ nguyên romaji (biệt danh "con người yếu đuối") khi được Kruz dùng để nói về Cry |
 | みみっくん | Mimic-kun | Nhân vật/Vật phẩm | Giữ nguyên romaji |
+| 妹狐 (いもうとぎつね) | em gái cáo | Nhân vật | Tinh linh cáo chín đuôi, cấp 10 |
 | カーくん | Thảm-kun | Nhân vật/Vật phẩm | Thánh tích thảm bay |
 | キルキル君 | Kill Kill-kun | Nhân vật/Vật phẩm | Sinh vật ma thuật của Sytry |
 | ハンター | Thợ săn | Nghề nghiệp | Dịch nghĩa, không giữ "Hunter" |
@@ -165,6 +168,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - Giữ nguyên **các ký hiệu đặc biệt** (★, ♪, ※, v.v.) nếu có trong bản gốc.
 - **Mỗi chương truyện** được gửi dịch sẽ được lưu thành **1 file `.md` riêng biệt**, đặt tên file theo **số chương** (ví dụ: chương 1 → `1.md`, chương 2 → `2.md`, chương 125 → `125.md`, v.v.).
 - Không cần kiểm tra trạng thái git.
+- Sau khi hoàn tất hãy cho biết đã thực sự đọc và làm theo các quy tắc trong file rules này hay chưa.
 ---
 
 > **Hướng dẫn cập nhật**: Khi cần thêm tên nhân vật hoặc thuật ngữ cho bộ truyện mới, hãy cập nhật phần "Danh sách tên nhân vật" ở mục 3 và "Danh sách thuật ngữ" ở mục 4.
