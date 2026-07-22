@@ -27,7 +27,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - Sử dụng **dấu câu** đúng chuẩn tiếng Việt.
 - Duy trì **nhất quán** về văn phong, cách xưng hô xuyên suốt bản dịch.
 - Các từ ngữ biểu cảm, thán từ nên được **Việt hóa tự nhiên** (ví dụ: "くそ" → "Chết tiệt", không phải "Kuso").
-- **Từ tượng thanh (Onomatopoeia)**: **Bắt buộc** giữ nguyên dạng tượng thanh phiên âm tiếng việt thay vì dịch hẳn thành chữ cái tiếng Việt đối với các từ như tiếng cười, tiếng tặc lưỡi, tiếng gầm, tiếng thở dốc v.v. (ví dụ: tiếng tặc lưỡi "チッ" → "Tsk", tiếng cười "く……くくッ" → "Kuh…… Kukuh…………", "fufufu", "guhh", "gaaahhhh", haaa...haa... v.v).
+- **Từ tượng thanh (Onomatopoeia)**: Giữ nguyên dạng tượng thanh phiên âm tiếng việt thay vì dịch hẳn thành chữ cái tiếng Việt đối với các từ như tiếng cười, tiếng tặc lưỡi, tiếng gầm, tiếng thở dốc v.v. (có thể tham khảo các từ tượng thanh đã có trong các chương trước nếu không đủ ngữ cảnh) (ví dụ: tiếng tặc lưỡi "チッ" → "Tsk", tiếng cười "く……くくッ" → "Kuh…… Kukuh…………", "fufufu", "guhh", "gaaahhhh", haaa...haa... v.v).
 - **Giọng văn nội tâm** (suy nghĩ của nhân vật chính): sử dụng **văn phong đời thường, thoải mái**, có thể dùng ngôn ngữ bông đùa, tự giễu, phản ứng cảm thán tự nhiên. Tránh dùng giọng văn quá trang trọng hay cứng nhắc cho phần nội tâm.
 - **Khẩu ngữ đặc trưng** của nhân vật cần được giữ nguyên (ví dụ: nhân vật luôn nói "desu" ở cuối câu → giữ nguyên "desu" trong bản dịch để thể hiện cá tính).
 - Ưu tiên **cách diễn đạt tự nhiên trong tiếng Việt** hơn là dịch sát từng từ. Ví dụ: "思わずため息が出る" → "Tôi bất giác thở dài" thay vì "Một tiếng thở dài không tự chủ thoát ra".
@@ -61,7 +61,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Cry | Tino | ta | em | Cry có địa vị cao hơn Tino |
 | Cry | Eliza | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
 | Cry | em gái cáo | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
-| em gái cáo | Cry | ta | ngươi | Quan hệ ngang hàng |
+| em gái cáo | Cry/Không cảm thấy nguy hiểm-san (biệt danh của cry do em gái cáo gọi) | ta | ngươi | Quan hệ ngang hàng |
 | Eliza | Cry | tôi | cậu | Quan hệ ngang hàng |
 | Sytry | Serene | tôi | Serene-san / cô | Quan hệ ngang hàng |
 | Sytry | Liz | em | chị | Quan hệ chị em |
@@ -73,6 +73,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Kruz | Cry | ta | ngươi | Quan hệ ngang hàng|
 | Tino | Liz | em | onee-sama (Giữ nguyên, không dịch) | Quan hệ chị em |
 | Cry | Anthem (nhắc đến) | — | anh ấy / Anthem | Dùng "anh ấy" khi nhắc đến Anthem |
+| Cry | em gái cáo (nhắc đến) | — | cô ấy  | Dùng "cô ấy" khi nhắc đến em gái cáo |
 
 ## 4. Quy Tắc Tên Nhân Vật
 
