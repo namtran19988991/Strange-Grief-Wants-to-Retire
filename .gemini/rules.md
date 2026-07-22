@@ -89,7 +89,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Tên gốc | Tên dịch | Ghi chú |
 |----------|----------|---------|
 | クライ・アンドリヒ | Cry Andrich | Nhân vật chính |
-| ルーク | Luke | Thành viên clan |
+| ルーク・サイコル | Luke Syscol (Luke) | Thành viên clan |
 | リィズ | Liz | Thành viên clan |
 | ルシア | Lucia | Thành viên clan |
 | エリザ | Eliza | Thành viên clan |
@@ -132,10 +132,12 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | マナ・マテリアル酔い | Ngộ độc Mana Material | Khái niệm | Dịch "酔い" thành "ngộ độc" thay vì "say" |
 | 白亜の花園プリズム・ガーデン | Hoa Viên | Địa điểm | Rút gọn, dùng tên ngắn |
 | 嘆きの亡霊 | Strange Grief | Tên clan | Giữ nguyên tiếng Anh |
+| 始まりの足跡 | First Step | Tên clan | Clan do Cry làm Clan Master |
 | 迷い宿 | Nhà trọ đã mất | Địa điểm | Dịch nghĩa |
 | ヨワニンゲン | Yowaningen | Biệt danh của Cry khi Kruz gọi| Giữ nguyên romaji (biệt danh "con người yếu đuối") khi được Kruz dùng để nói về Cry |
 | みみっくん | Mimic-kun | Nhân vật/Vật phẩm | Giữ nguyên romaji |
 | 妹狐 (いもうとぎつね) | em gái cáo | Nhân vật | Tinh linh cáo chín đuôi, cấp 10 |
+| 九尾の影狐 | Cửu vỹ hồ ảnh | Tổ chức | Tổ chức bí mật / Phản diện |
 | カーくん | Thảm-kun | Nhân vật/Vật phẩm | Thánh tích thảm bay |
 | キルキル君 | Kill Kill-kun | Nhân vật/Vật phẩm | Sinh vật ma thuật của Sytry |
 | ハンター | Thợ săn | Nghề nghiệp | Dịch nghĩa, không giữ "Hunter" |
