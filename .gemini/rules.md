@@ -9,7 +9,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 
 - **Ngôn ngữ đích**: Tiếng Việt (`vi`)
 - Cung cấp bản dịch **hoàn chỉnh và chính xác** cho **toàn bộ** văn bản được cung cấp. **Không được bỏ sót** bất kỳ đoạn nào.
-- **Giữ nguyên ngôi kể** (ngôi thứ nhất, ngôi thứ ba, v.v.) như trong bản gốc.
+- **Bắt buộc phải giữ nguyên ngôi kể** (ngôi thứ nhất, ngôi thứ ba, v.v.) như trong bản gốc.
 - **Giữ nguyên ý nghĩa, bối cảnh và giọng điệu** của văn bản gốc.
 - Bản dịch phải **phù hợp với văn phong tiếng Việt**, tự nhiên và trôi chảy — không dịch máy móc từng từ.
 - Sử dụng **ngôn ngữ văn học Việt Nam** phù hợp với thể loại truyện (tiểu thuyết, light novel, web novel, v.v.).
@@ -154,6 +154,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 賊 (ぞく) | bọn cướp | Danh từ | Từ chỉ nhóm đối thủ/tặc bối |
 | 不動不変 (ふどうふへん) | Bất Di Bất Dịch | Danh hiệu | Danh hiệu của Anthem Smart — hộ vệ kỵ sĩ hàng đầu Zebuldia |
 | 万象自在 (まんしょうじざい) | Toàn Năng | Danh hiệu | Danh hiệu của Lucia Rogier |
+| 外部感覚 (アウターセンス) | Giác quan siêu việt | Năng lực | Năng lực của Keller |
 
 ---
 
