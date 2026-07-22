@@ -159,6 +159,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 賊 (ぞく) | bọn cướp | Danh từ | Từ chỉ nhóm đối thủ/tặc bối |
 | 不動不変 (ふどうふへん) | Bất Di Bất Dịch | Danh hiệu | Danh hiệu của Anthem Smart — hộ vệ kỵ sĩ hàng đầu Zebuldia |
 | 万象自在 (まんしょうじざい) | Toàn Năng | Danh hiệu | Danh hiệu của Lucia Rogier |
+| 深淵火滅 (しんえんかめつ) | Hỏa Vực Diệt Vong | Danh hiệu | Danh hiệu của Rosemarie Pyropos |
 | 外部感覚 (アウターセンス) | Giác quan siêu việt | Năng lực | Năng lực của Keller |
 
 ---
