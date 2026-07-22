@@ -61,6 +61,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Cry | Tino | ta | em | Cry có địa vị cao hơn Tino |
 | Cry | Eliza | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
 | Cry | em gái cáo | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
+| Cry | Eva | tôi | cô | Quan hệ ngang hàng |
 | em gái cáo | Cry/Không cảm thấy nguy hiểm-san (biệt danh của cry do em gái cáo gọi) | ta | ngươi | Quan hệ ngang hàng |
 | Eliza | Cry | tôi | cậu | Quan hệ ngang hàng |
 | Sytry | Serene | tôi | Serene-san / cô | Quan hệ ngang hàng |
