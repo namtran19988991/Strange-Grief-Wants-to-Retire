@@ -40,16 +40,9 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 ## 3. Quy Tắc Xưng Hô
 
 ### Quy tắc chung:
-- **Xưng hô phải phù hợp với quan hệ giữa các nhân vật đang nói chuyện**: Trước khi dịch hội thoại, xác định rõ nhân vật nào đang nói với nhân vật nào. Xưng hô (tôi/em/mình, bạn/cô/chị...) phải phản ánh đúng mối quan hệ (bạn bè ngang hàng, cấp trên/dưới, quen biết/xa lạ). Ví dụ: Sytry, Cry nói chuyện với Serene (ngang hàng, không phải bề trên) → dùng "tôi", không dùng "em"; Lucia nói với Cry (anh trai/lãnh đạo) → dùng "em". Nếu chưa thể xác định ngay cách xưng hô hoặc không có đủ ngữ cảnh. Hãy tham khảo thêm từ các chương trước hoặc dựa vào nội dung đoạn hội thoại để xác định cách xưng hô cho hợp lý (vd: nội dung thể hiện cảm xúc tình yêu → dùng anh-em, thể hiện sự tức giận → dùng ta-ngươi. trao đổi thông thường dùng -> tôi - cô/cậu )
-- **khi trong đoạn hội thoại, nhân vật đang không trao đổi với cụ thể một ai mà đang trao đổi với một nhóm người thì cách xưng hô phải dựa vào địa vị của người đang nói** Ví dụ: Sytry nói chuyện với mọi người → dùng ngôi tôi bởi vì Sytry có địa vị ngang hàng với mọi người. Keller nói chuyện với các tín đồ → dùng ngôi ta bởi vì Keller có địa vị cao hơn các tín đồ.
-- Xưng hô giữa các nhân vật phải **nhất quán** và **phù hợp mối quan hệ** (anh/em, em/ngài, tôi/cậu, ta/cậu v.v.).
+- **Xưng hô phải phù hợp với quan hệ giữa các nhân vật đang nói chuyện**: Trước khi dịch hội thoại, xác định rõ nhân vật nào đang nói với nhân vật nào. Xưng hô giữa các nhân vật phải **nhất quán** và **phù hợp mối quan hệ**(bạn bè ngang hàng, cấp trên/dưới, quen biết/xa lạ). Ví dụ: Sytry, Cry nói chuyện với Serene (ngang hàng, không phải bề trên) → dùng "tôi", không dùng "em"; Lucia nói với Cry (anh trai/lãnh đạo) → dùng "em".
 - **Giữ nguyên các hậu tố danh xưng/kính ngữ và cách gọi họ hàng** trong tiếng Nhật (như `-sama`, `-san`, `-kun`, `-chan`, `Nii-san`, `Onee-chan`) thay vì dịch sang tiếng Việt (ví dụ: `Adler-sama` thay vì `Ngài Adler`, `Nii-chan` thay vì `anh`, `Onee-chan` thay vì `chị hai`). 
-- **giữ nguyên hậu tố khi gọi/nhắc đến tên nhân vật** (ví dụ: không dịch thành "cô Serene" mà giữ nguyên Serene-san)
-- **リーダー (Leader) trong hội thoại** dịch thành **"Lãnh đạo"**, không giữ nguyên "Leader".
-- **Cách Adler gọi/nhắc đến Cry (《Thiên Biến Vạn Hóa》)**: Dùng **"hắn ta" / "hắn"** (không dùng "ông ta").
-- **Cách gọi/nhắc đến Keller (Thần linh)**: Dùng **"hắn ta" / "hắn"** (không dùng "ông ta").
 - **Khi Cry nhắc đến Tino, Liz, Sytry (ngôi thứ 3 trong suy nghĩ / lời kể)**: Dùng **"em ấy"** (không dùng "cô ấy" hay "cô bé").
-- **Khi người kể / Cry nhắc đến Kaiser (ngôi thứ 3)**: Dùng **"cậu ta" / "cậu ấy" / "anh ta"** (không dùng "anh" / "anh ấy").
 
 ### Bảng xưng hô giữa các nhân vật:
 
@@ -58,7 +51,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Người nói (A) | Người nghe (B) | Tự xưng (A) | Gọi đối phương (B) | Ghi chú |
 |---|---|---|---|---|
 | Lucia | Cry | em | Lãnh đạo / Nii-chan | "Lãnh đạo" khi ở vai trò thuộc cấp; "Nii-chan" khi vô tình/bất ngờ (giữ nguyên, không dịch) |
-| Cry | Lucia | anh | em | |
+| Cry | Lucia | anh | em | quan hệ anh em |
+| Lucia | Cry | em | lãnh đạo(biệt danh Cry do lucia gọi) | quan hệ anh em |
 | Cry | Tino | ta | em | Cry có địa vị cao hơn Tino |
 | Cry | Eliza | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
 | Cry | em gái cáo | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
@@ -82,6 +76,14 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Tino | Liz | em | onee-sama (Giữ nguyên, không dịch) | Quan hệ chị em |
 | Cry | Anthem (nhắc đến) | — | anh ấy / Anthem | Dùng "anh ấy" khi nhắc đến Anthem |
 | Cry | em gái cáo (nhắc đến) | — | cô ấy  | Dùng "cô ấy" khi nhắc đến em gái cáo |
+| Kaiser | Cry | tôi | cậu | Quan hệ ngang hàng|
+| Kaiser | Cry(nhắc đến) | — | cậu ấy | Quan hệ ngang hàng|
+| Kaiser | Saya | tôi | tôi | Quan hệ ngang hàng|
+| Saya | Cry | tôi | cậu | Quan hệ ngang hàng|
+| Saya | Cry(nhắc đến) | — | anh ta/anh ấy | Quan hệ ngang hàng|
+| Saya | Kaiser | tôi | cậu | Quan hệ ngang hàng|
+| Cry | Kaiser | tôi | cậu | Quan hệ ngang hàng|
+| Cry | Saya | tôi | cô | Quan hệ ngang hàng|
 
 ## 4. Quy Tắc Tên Nhân Vật
 
