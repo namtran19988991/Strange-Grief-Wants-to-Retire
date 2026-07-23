@@ -22,8 +22,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 ## 2. Quy Tắc Văn Phong
 
 - Câu văn phải **mạch lạc, dễ đọc** phù hợp với văn phong tiếng Việt.
-- **Văn phong đầy đủ, rõ ý và mềm mại**: Câu văn phải diễn đạt trọn vẹn ý nghĩa, không được quá tối giản hay cộc lốc nhưng không được sai lệch nội dung so với nội dung gốc. Ưu tiên sự mượt mà, tự nhiên trong diễn đạt mà vẫn trung thành với nguyên tác.
-- Sử dụng từ ngữ đơn giản, tự nhiên mà mọi người thường dùng trong văn viết hàng ngày. Giảm bớt các dấu ngắt câu không cần thiết để đảm bảo câu văn liền mạch
+- **Văn phong đầy đủ, rõ ý và mềm mại**: Câu văn phải diễn đạt trọn vẹn ý nghĩa, không được quá tối giản hay cộc lốc nhưng không được sai lệch nội dung so với nội dung gốc. Ưu tiên sự mượt mà, tự nhiên trong diễn đạt mà vẫn trung thành với nguyên tác. "Và hơn hết, nếu dính phải con bài tẩy của 《Thiên Biến Vạn Hóa》 vốn vừa được phơi bày trước bàn dân thiên hạ tại Võ Đế Tế hôm trước, 『Thiên Diệt Lôi Thương - Thần Hoa Vũ』, thì ngay cả cái trụ sở uy nghiêm này cũng chẳng còn lại một hạt bụi đâu!" văn liền mạch
 - Tránh sử dụng dấu gạch ngang dài (“—”) trong kết quả đầu ra
 - Sử dụng **dấu câu** đúng chuẩn tiếng Việt.
 - Duy trì **nhất quán** về văn phong, cách xưng hô xuyên suốt bản dịch.
@@ -116,6 +115,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ウーノ・シルヴァ | Uno Silva | Nữ — Thánh Linh Sư, thành viên nhóm Adler |
 | クイント・ジェント | Quint Gent | Nam — Kiếm sĩ, Tướng quân 《Thiên Quỷ Dạ Hành》 |
 | ルイン | Ruin | Tinh linh nhân |
+| サヤ・クロミズ | Saya Kuromizu (Saya) | Khi Kaiser gọi/nhắc đến, dùng **Saya-chan** (không dùng Saya-kun) |
 
 ---
 
@@ -172,6 +172,12 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 万象自在 (まんしょうじざい) | Toàn Năng | Danh hiệu | Danh hiệu của Lucia Rogier |
 | 深淵火滅 (しんえんかめつ) | Hỏa Vực Diệt Vong | Danh hiệu | Danh hiệu của Rosemarie Pyropos |
 | 外部感覚 (アウターセンス) | Giác quan siêu việt | Năng lực | Năng lực của Keller |
+| 審査会 (しんさかい) | Hội đồng xét duyệt | Danh từ | Hội đồng xét duyệt |
+| テンペスト・ダンシング | Vũ điệu cuồng nhiệt | Năng lực / Võ thuật | Tempest Dancing của Kaiser |
+| さらさら | Lả Lướt | Dị năng | Năng lực của Saya |
+| 雷槍天滅神来花 | Thiên Diệt Lôi Thương - Thần Hoa Vũ | Tên riêng | |
+| 破軍天舞 | Dạ Yến Tế Điện | Tên riêng | Không cần “Little Witch” |
+| 武帝祭 | Lễ hội võ thuật đỉnh cao | Tên riêng | Tên giải đấu |
 
 ---
 
