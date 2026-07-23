@@ -180,6 +180,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 破軍天舞 | Dạ Yến Tế Điện | Tên riêng | Không cần “Little Witch” |
 | 武帝祭 | Lễ hội võ thuật đỉnh cao | Tên riêng | Tên giải đấu |
 | 都市 (とし) | thành phố | Danh từ | Dịch thành "thành phố", không dùng "đô thị" |
+| 機装兵 (きそうへい) | Binh lính cơ giới | Khái niệm / Thực thể | Binh sĩ cơ giới của Code |
 
 
 ---
