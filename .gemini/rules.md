@@ -17,6 +17,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - Các thuật ngữ chuyên ngành (fantasy, v.v.) nên được dịch theo **cách dùng phổ biến** trong cộng đồng đọc truyện Việt Nam.
 - **Không thêm chú thích, giải thích hay bình luận** vào bản dịch trừ khi được yêu cầu.
 - **Không tóm tắt hay lược bỏ** nội dung — dịch đầy đủ 100%.
+- **Có thể tham khảo thêm các chương đã có nếu cần thêm ngữ cảnh**
 
 ## 2. Quy Tắc Văn Phong
 
@@ -41,7 +42,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 
 ### Quy tắc chung:
 - **Xưng hô phải phù hợp với quan hệ giữa các nhân vật đang nói chuyện**: Trước khi dịch hội thoại, xác định rõ nhân vật nào đang nói với nhân vật nào. Xưng hô (tôi/em/mình, bạn/cô/chị...) phải phản ánh đúng mối quan hệ (bạn bè ngang hàng, cấp trên/dưới, quen biết/xa lạ). Ví dụ: Sytry, Cry nói chuyện với Serene (ngang hàng, không phải bề trên) → dùng "tôi", không dùng "em"; Lucia nói với Cry (anh trai/lãnh đạo) → dùng "em". Nếu chưa thể xác định ngay cách xưng hô hoặc không có đủ ngữ cảnh. Hãy tham khảo thêm từ các chương trước hoặc dựa vào nội dung đoạn hội thoại để xác định cách xưng hô cho hợp lý (vd: nội dung thể hiện cảm xúc tình yêu → dùng anh-em, thể hiện sự tức giận → dùng ta-ngươi. trao đổi thông thường dùng -> tôi - cô/cậu )
-- **khi trong đoạn hội thoại, nhân vật đang không trao đổi với ai mà chỉ độc thoại thì phải dùng ngôi Xưng hô phù hợp với người đang được nhắc đến** Ví dụ: Sytry độc thoại → dùng ngôi tôi
+- **khi trong đoạn hội thoại, nhân vật đang không trao đổi với cụ thể một ai mà đang trao đổi với một nhóm người thì cách xưng hô phải dựa vào địa vị của người đang nói** Ví dụ: Sytry nói chuyện với mọi người → dùng ngôi tôi bởi vì Sytry có địa vị ngang hàng với mọi người. Keller nói chuyện với các tín đồ → dùng ngôi ta bởi vì Keller có địa vị cao hơn các tín đồ.
 - Xưng hô giữa các nhân vật phải **nhất quán** và **phù hợp mối quan hệ** (anh/em, em/ngài, tôi/cậu, ta/cậu v.v.).
 - **Giữ nguyên các hậu tố danh xưng/kính ngữ và cách gọi họ hàng** trong tiếng Nhật (như `-sama`, `-san`, `-kun`, `-chan`, `Nii-san`, `Onee-chan`) thay vì dịch sang tiếng Việt (ví dụ: `Adler-sama` thay vì `Ngài Adler`, `Nii-chan` thay vì `anh`, `Onee-chan` thay vì `chị hai`). 
 - **giữ nguyên hậu tố khi gọi/nhắc đến tên nhân vật** (ví dụ: không dịch thành "cô Serene" mà giữ nguyên Serene-san)
