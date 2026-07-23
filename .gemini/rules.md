@@ -17,7 +17,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - Các thuật ngữ chuyên ngành (fantasy, v.v.) nên được dịch theo **cách dùng phổ biến** trong cộng đồng đọc truyện Việt Nam.
 - **Không thêm chú thích, giải thích hay bình luận** vào bản dịch trừ khi được yêu cầu.
 - **Không tóm tắt hay lược bỏ** nội dung — dịch đầy đủ 100%.
-- **Có thể tham khảo thêm các chương đã có nếu cần thêm ngữ cảnh**
+- **Tham khảo thêm các chương đã có để hiểu thêm về ngữ cảnh**
 
 ## 2. Quy Tắc Văn Phong
 
@@ -49,6 +49,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - **Cách Adler gọi/nhắc đến Cry (《Thiên Biến Vạn Hóa》)**: Dùng **"hắn ta" / "hắn"** (không dùng "ông ta").
 - **Cách gọi/nhắc đến Keller (Thần linh)**: Dùng **"hắn ta" / "hắn"** (không dùng "ông ta").
 - **Khi Cry nhắc đến Tino, Liz, Sytry (ngôi thứ 3 trong suy nghĩ / lời kể)**: Dùng **"em ấy"** (không dùng "cô ấy" hay "cô bé").
+- **Khi người kể / Cry nhắc đến Kaiser (ngôi thứ 3)**: Dùng **"cậu ta" / "cậu ấy" / "anh ta"** (không dùng "anh" / "anh ấy").
 
 ### Bảng xưng hô giữa các nhân vật:
 
@@ -173,11 +174,13 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 深淵火滅 (しんえんかめつ) | Hỏa Vực Diệt Vong | Danh hiệu | Danh hiệu của Rosemarie Pyropos |
 | 外部感覚 (アウターセンス) | Giác quan siêu việt | Năng lực | Năng lực của Keller |
 | 審査会 (しんさかい) | Hội đồng xét duyệt | Danh từ | Hội đồng xét duyệt |
-| テンペスト・ダンシング | Vũ điệu cuồng nhiệt | Năng lực / Võ thuật | Tempest Dancing của Kaiser |
+| テンペスト・ダンシング | Vũ điệu cuồng nhiệt | Năng lực / Võ thuật | Chiêu thức của Kaiser |
 | さらさら | Lả Lướt | Dị năng | Năng lực của Saya |
-| 雷槍天滅神来花 | Thiên Diệt Lôi Thương - Thần Hoa Vũ | Tên riêng | |
+| 雷槍天滅神来花 | Lôi thương diệt thần | Tên riêng | |
 | 破軍天舞 | Dạ Yến Tế Điện | Tên riêng | Không cần “Little Witch” |
 | 武帝祭 | Lễ hội võ thuật đỉnh cao | Tên riêng | Tên giải đấu |
+| 都市 (とし) | thành phố | Danh từ | Dịch thành "thành phố", không dùng "đô thị" |
+
 
 ---
 
@@ -185,6 +188,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 
 - Chỉ xuất ra **bản dịch tiếng Việt**, không kèm bản gốc (trừ khi được yêu cầu).
 - Giữ nguyên **cấu trúc đoạn văn** như bản gốc.
+- Các đoạn ngắt truyện cách nhau một dòng.
 - Giữ nguyên **các ký hiệu đặc biệt** (★, ♪, ※, v.v.) nếu có trong bản gốc.
 - **Mỗi chương truyện** được gửi dịch sẽ được lưu thành **1 file `.md` riêng biệt**, đặt tên file theo **số chương** (ví dụ: chương 1 → `1.md`, chương 2 → `2.md`, chương 125 → `125.md`, v.v.).
 - Không cần kiểm tra trạng thái git.
