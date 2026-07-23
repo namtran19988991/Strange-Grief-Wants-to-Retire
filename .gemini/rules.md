@@ -22,8 +22,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 ## 2. Quy Tắc Văn Phong
 
 - Câu văn phải **mạch lạc, dễ đọc** phù hợp với văn phong tiếng Việt.
-- **Văn phong đầy đủ, rõ ý và mềm mại**: Câu văn phải diễn đạt trọn vẹn ý nghĩa, không được quá tối giản hay cộc lốc nhưng không được sai lệch nội dung so với nội dung gốc. Ưu tiên sự mượt mà, tự nhiên trong diễn đạt mà vẫn trung thành với nguyên tác. "Và hơn hết, nếu dính phải con bài tẩy của 《Thiên Biến Vạn Hóa》 vốn vừa được phơi bày trước bàn dân thiên hạ tại Võ Đế Tế hôm trước, 『Thiên Diệt Lôi Thương - Thần Hoa Vũ』, thì ngay cả cái trụ sở uy nghiêm này cũng chẳng còn lại một hạt bụi đâu!" văn liền mạch
-- Tránh sử dụng dấu gạch ngang dài (“—”) trong kết quả đầu ra
+- **Văn phong đầy đủ, rõ ý và mềm mại**: Câu văn phải diễn đạt trọn vẹn ý nghĩa, không được quá tối giản hay cộc lốc nhưng không được sai lệch nội dung so với nội dung gốc. Ưu tiên sự mượt mà, tự nhiên trong diễn đạt mà vẫn trung thành với nguyên tác.
+- **Không** sử dụng dấu gạch ngang dài (“—”) trong kết quả đầu ra mà sử dụng các từ ngữ, cách diễn đạt hoặc dấu câu tự nhiên trong tiếng Việt.
 - Sử dụng **dấu câu** đúng chuẩn tiếng Việt.
 - Duy trì **nhất quán** về văn phong, cách xưng hô xuyên suốt bản dịch.
 - Các từ ngữ biểu cảm, thán từ nên được **Việt hóa tự nhiên** (ví dụ: "くそ" → "Chết tiệt", không phải "Kuso").
@@ -188,11 +188,11 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 
 - Chỉ xuất ra **bản dịch tiếng Việt**, không kèm bản gốc (trừ khi được yêu cầu).
 - Giữ nguyên **cấu trúc đoạn văn** như bản gốc.
-- Các đoạn ngắt truyện cách nhau một dòng.
+- **Các đoạn ngắt truyện** được phân cách bằng **một dòng trắng**.
 - Giữ nguyên **các ký hiệu đặc biệt** (★, ♪, ※, v.v.) nếu có trong bản gốc.
 - **Mỗi chương truyện** được gửi dịch sẽ được lưu thành **1 file `.md` riêng biệt**, đặt tên file theo **số chương** (ví dụ: chương 1 → `1.md`, chương 2 → `2.md`, chương 125 → `125.md`, v.v.).
 - Không cần kiểm tra trạng thái git.
-- Sau khi hoàn tất hãy cho biết đã thực sự đọc và làm theo các quy tắc trong file rules này hay chưa bằng cách trả lời "Tôi xác nhận đã đọc kỹ và tuân thủ 100% tất cả các quy tắc trong file Rule".
+- Sau khi hoàn tất hãy cho biết đã thực sự đọc và làm theo các quy tắc trong file rules này hay chưa bằng cách trả lời "Tôi xác nhận đã đọc kỹ và tuân thủ 100% tất cả các quy tắc trong file Rule" và cho biết tóm tắt việc đã thực hiện những mục nào.
 ---
 
 > **Hướng dẫn cập nhật**: Khi cần thêm tên nhân vật hoặc thuật ngữ cho bộ truyện mới, hãy cập nhật phần "Danh sách tên nhân vật" ở mục 3 và "Danh sách thuật ngữ" ở mục 4.
