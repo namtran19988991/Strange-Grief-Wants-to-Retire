@@ -188,7 +188,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 
 - Chỉ xuất ra **bản dịch tiếng Việt**, không kèm bản gốc (trừ khi được yêu cầu).
 - Giữ nguyên **cấu trúc đoạn văn** như bản gốc.
-- **Các đoạn ngắt truyện** được phân cách bằng **một dòng trắng**.
+- **Các đoạn ngắt truyện** được phân cách bằng **một dòng trắng trong file md**.
 - Giữ nguyên **các ký hiệu đặc biệt** (★, ♪, ※, v.v.) nếu có trong bản gốc.
 - **Mỗi chương truyện** được gửi dịch sẽ được lưu thành **1 file `.md` riêng biệt**, đặt tên file theo **số chương** (ví dụ: chương 1 → `1.md`, chương 2 → `2.md`, chương 125 → `125.md`, v.v.).
 - Không cần kiểm tra trạng thái git.
