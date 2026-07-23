@@ -64,7 +64,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Cry | Eva | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
 | Cry | Franz | tôi | ông | Quan hệ ngang hàng |
 | Franz | Cry | ngươi | ta | Quan hệ ngang hàng |
-| Grak | Cry | cậu | ta | Quan hệ ngang hàng |
+| Grak | Cry | ta | chú mày | Quan hệ ngang hàng |
 | Cry | Grak | ông | tôi | Quan hệ ngang hàng |
 | Zultan | Cry | tôi | cậu | Quan hệ ngang hàng |
 | Cry | Zultan | tôi | ông | Quan hệ ngang hàng |
