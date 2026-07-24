@@ -84,6 +84,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Saya | Kaiser | tôi | cậu | Quan hệ ngang hàng|
 | Cry | Kaiser | tôi | cậu | Quan hệ ngang hàng|
 | Cry | Saya | tôi | cô | Quan hệ ngang hàng|
+| Rusha | Cry | tôi | anh | Quan hệ ngang hàng |
+| Cry | Rusha | tôi | cô | Quan hệ ngang hàng |
 
 ## 4. Quy Tắc Tên Nhân Vật
 
@@ -119,6 +121,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | クイント・ジェント | Quint Gent | Nam — Kiếm sĩ, Tướng quân 《Thiên Quỷ Dạ Hành》 |
 | ルイン | Ruin | Tinh linh nhân |
 | サヤ・クロミズ | Saya Kuromizu (Saya) | Khi Kaiser gọi/nhắc đến, dùng **Saya-chan** (không dùng Saya-kun) |
+| ルシャ | Rusha | Thành viên nhóm Krahi |
 
 ---
 
@@ -142,6 +145,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | マナ・マテリアル酔い | Ngộ độc Mana Material | Khái niệm | Dịch "酔い" thành "ngộ độc" thay vì "say" |
 | 白亜の花園プリズム・ガーデン | Hoa Viên | Địa điểm | Rút gọn, dùng tên ngắn |
 | 嘆きの亡霊 | Strange Grief | Tên clan | Giữ nguyên tiếng Anh |
+| 嘆きの悪霊 | Strange Freak | Tên party | Party do Krahi làm thủ lĩnh, giữ nguyên tiếng Anh |
 | 始まりの足跡 | First Step | Tên clan | Clan do Cry làm Clan Master |
 | 迷い宿 | Nhà trọ đã mất | Địa điểm | Dịch nghĩa |
 | ヨワニンゲン | Yowaningen | Biệt danh của Cry khi Kruz gọi| Giữ nguyên romaji (biệt danh "con người yếu đuối") khi được Kruz dùng để nói về Cry |
