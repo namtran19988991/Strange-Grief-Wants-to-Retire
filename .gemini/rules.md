@@ -75,7 +75,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Adler | Cry (nói chuyện trực tiếp) | ta | ngươi | Quan hệ ngang hàng |
 | Adler | Thần linh (Keller) | tôi | người | Keller là Thần linh, có địa vị cao hơn Adler |
 | Kruz | Cry | ta | ngươi | Quan hệ ngang hàng|
-| Tino | Liz | em | onee-sama (Giữ nguyên, không dịch) | Quan hệ chị em |
+| Tino | Liz | em | Onee-sama | Giữ nguyên Onee-sama, không dịch thành chị hai |
 | Cry | Anthem (nhắc đến) | — | anh ấy / Anthem | Dùng "anh ấy" khi nhắc đến Anthem |
 | Cry | em gái cáo (nhắc đến) | — | cô ấy  | Dùng "cô ấy" khi nhắc đến em gái cáo |
 | Kaiser | Cry | tôi | cậu | Quan hệ ngang hàng|
