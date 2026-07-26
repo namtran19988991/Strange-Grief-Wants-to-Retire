@@ -122,6 +122,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ルイン | Ruin | Tinh linh nhân |
 | サヤ・クロミズ | Saya Kuromizu (Saya) | Khi Kaiser gọi/nhắc đến, dùng **Saya-chan** (không dùng Saya-kun) |
 | ルシャ | Rusha | Thành viên nhóm Krahi |
+| 剣尾 | Kiếm Vĩ | Thành viên Cửu Vĩ Hồ Ảnh |
+| 空尾 | Hư Vĩ | Thành viên Cửu Vĩ Hồ Ảnh |
 
 ---
 
@@ -181,7 +183,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 外部感覚 (アウターセンス) | Giác quan siêu việt | Năng lực | Năng lực của Keller |
 | 審査会 (しんさかい) | Hội đồng xét duyệt | Danh từ | Hội đồng xét duyệt |
 | テンペスト・ダンシング | Vũ điệu cuồng nhiệt | Năng lực / Võ thuật | Chiêu thức của Kaiser |
-| さらさら | Lả Lướt | Dị năng | Năng lực của Saya |
+| さらさら | Xào xạc | Dị năng | Năng lực của Saya |
 | 雷槍天滅神来花 | Lôi thương diệt thần | Tên riêng | |
 | 破軍天舞 | Dạ Yến Tế Điện | Tên riêng | Không cần “Little Witch” |
 | 武帝祭 | Lễ hội võ thuật đỉnh cao | Tên riêng | Tên giải đấu |
