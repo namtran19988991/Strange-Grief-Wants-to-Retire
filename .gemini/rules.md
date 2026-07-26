@@ -64,6 +64,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Zultan | Cry | tôi | cậu | Quan hệ ngang hàng |
 | Cry | Zultan | tôi | ông | Quan hệ ngang hàng |
 | em gái cáo | Cry/Không cảm thấy nguy hiểm-san (biệt danh của cry do em gái cáo gọi) | ta | ngươi | Quan hệ ngang hàng |
+| Cry | anh trai cáo | tôi | anh | Quan hệ ngang hàng |
+| anh trai cáo | Cry | tôi | cậu | Quan hệ ngang hàng |
 | Eliza | Cry | tôi | cậu | Quan hệ ngang hàng |
 | Sytry | Serene | tôi | Serene-san / cô | Quan hệ ngang hàng |
 | Sytry | Liz | em | chị | Quan hệ chị em |
@@ -125,7 +127,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ルシャ | Rusha | Thành viên nhóm Krahi |
 | 剣尾 | Kiếm Vĩ | Thành viên Cửu Vĩ Hồ Ảnh |
 | 空尾 | Hư Vĩ | Thành viên Cửu Vĩ Hồ Ảnh |
-| クール・サイコー | Cool Psyco (Cool) | Thành viên nhóm Strange Freak (nhóm Krahi) |
+| クール・サイコー | Cool Saikou (Cool) | Thành viên nhóm Strange Freak (nhóm Krahi) |
 
 ---
 
