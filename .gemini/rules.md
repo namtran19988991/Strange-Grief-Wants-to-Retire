@@ -185,6 +185,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 不動不変 (ふどうふへん) | Bất Di Bất Dịch | Danh hiệu | Danh hiệu của Anthem Smart — hộ vệ kỵ sĩ hàng đầu Zebuldia |
 | 絶影 (ぜつえい) | Tuyệt Ảnh | Danh hiệu | Danh hiệu của Liz Smart |
 | 影人 (かげびと) | Dạ Nhân | Thực thể / Khái niệm | Chủng loại Kẻ viếng thăm (Foreigner) của Saya |
+| 咽び泣くレディ (レディ) | Quý cô than khóc | Thực thể / Phantom | Phantom của 【Khu vườn của Tinh Thần】 |
 | 万象自在 (まんしょうじざい) | Toàn Năng | Danh hiệu | Danh hiệu của Lucia Rogier |
 | 深淵火滅 (しんえんかめつ) | Hỏa Vực Diệt Vong | Danh hiệu | Danh hiệu của Rosemarie Pyropos |
 | 外部感覚 (アウターセンス) | Giác quan siêu việt | Năng lực | Năng lực của Keller |
