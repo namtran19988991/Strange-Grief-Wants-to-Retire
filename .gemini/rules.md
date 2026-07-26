@@ -125,6 +125,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ルシャ | Rusha | Thành viên nhóm Krahi |
 | 剣尾 | Kiếm Vĩ | Thành viên Cửu Vĩ Hồ Ảnh |
 | 空尾 | Hư Vĩ | Thành viên Cửu Vĩ Hồ Ảnh |
+| クール・サイコー | Cool Psyco (Cool) | Thành viên nhóm Strange Freak (nhóm Krahi) |
 
 ---
 
