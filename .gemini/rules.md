@@ -160,6 +160,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | キルキル君 | Kill Kill-kun | Nhân vật/Vật phẩm | Sinh vật ma thuật của Sytry |
 | ハンター | Thợ săn | Nghề nghiệp | Dịch nghĩa, không giữ "Hunter" |
 | 術者 (じゅつしゃ) | Pháp sư | Nghề nghiệp | Dịch "thuật giả" thành "pháp sư" |
+| 魔導師 (まどうし) / 魔術師 | Pháp sư | Nghề nghiệp | Dịch thành "pháp sư" (không dùng "ma đạo sĩ") |
 | 皇族 (こうぞく) | Hoàng Tộc | Khái niệm | Dịch thành "Hoàng tộc" |
 | 皇女殿下 (こうじょでんか) | Công chúa Đế quốc | Danh xưng | Không dùng "Điện hạ Hoàng nữ" |
 | 導手 (どうしゅ) | Thuần thú sư | Nghề nghiệp / Khái niệm | Người chỉ huy, thuần hóa ma vật |
