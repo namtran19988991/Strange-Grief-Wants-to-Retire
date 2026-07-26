@@ -86,6 +86,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Cry | Saya | tôi | cô | Quan hệ ngang hàng|
 | Rusha | Cry | tôi | anh | Quan hệ ngang hàng |
 | Cry | Rusha | tôi | cô | Quan hệ ngang hàng |
+| Alisha | Hoàng tộc khác (Nora, Tony, Morris, Angus, Jean...) | em | [Tên]-onee-sama / [Tên]-onii-sama | Giữ nguyên kính ngữ dạng [Tên]-onee-sama / [Tên]-onii-sama (Vd: Nora-onee-sama, Tony-onii-sama, Morris-onii-sama) |
 
 ## 4. Quy Tắc Tên Nhân Vật
 
