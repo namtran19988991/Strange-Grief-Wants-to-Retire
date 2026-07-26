@@ -42,7 +42,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 ### Quy tắc chung:
 - **Xưng hô phải phù hợp với quan hệ giữa các nhân vật đang nói chuyện**: Trước khi dịch hội thoại, xác định rõ nhân vật nào đang nói với nhân vật nào. Xưng hô giữa các nhân vật phải **nhất quán** và **phù hợp mối quan hệ**(bạn bè ngang hàng, cấp trên/dưới, quen biết/xa lạ). Ví dụ: Sytry, Cry nói chuyện với Serene (ngang hàng, không phải bề trên) → dùng "tôi", không dùng "em"; Lucia nói với Cry (anh trai/lãnh đạo) → dùng "em".
 - **Giữ nguyên các hậu tố danh xưng/kính ngữ và cách gọi họ hàng** trong tiếng Nhật (như `-sama`, `-san`, `-kun`, `-chan`, `Nii-san`, `Onee-chan`) thay vì dịch sang tiếng Việt (ví dụ: `Adler-sama` thay vì `Ngài Adler`, `Nii-chan` thay vì `anh`, `Onee-chan` thay vì `chị hai`). 
-- **Khi Cry nhắc đến Tino, Liz, Sytry (ngôi thứ 3 trong suy nghĩ / lời kể)**: Dùng **"em ấy"** (không dùng "cô ấy" hay "cô bé").
+- **Khi Cry nhắc đến Tino, Liz, Sytry, Lucia (ngôi thứ 3 trong suy nghĩ / lời kể)**: Dùng **"em ấy"** (không dùng "cô ấy" hay "cô bé").
 
 ### Bảng xưng hô giữa các nhân vật:
 
@@ -57,6 +57,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Cry | Eliza | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
 | Cry | em gái cáo | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
 | Cry | Eva | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
+| Eva | Cry | tôi | Master / Cry-san | Quan hệ công việc/ngang hàng, tự xưng "tôi" (không dùng "em") |
 | Cry | Franz | tôi | ông | Quan hệ ngang hàng |
 | Franz | Cry | ngươi | ta | Quan hệ ngang hàng |
 | Grak | Cry | ta | chú mày | Quan hệ ngang hàng |
