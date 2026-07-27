@@ -52,7 +52,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 |---|---|---|---|---|
 | Lucia | Cry | em | Lãnh đạo / Nii-chan | "Lãnh đạo" khi ở vai trò thuộc cấp; "Nii-chan" khi vô tình/bất ngờ (giữ nguyên, không dịch) |
 | Cry | Lucia | anh | em | quan hệ anh em |
-| Lucia | Cry | em | lãnh đạo(biệt danh Cry do lucia gọi) | quan hệ anh em |
+| Lucia | Cry | em | lãnh đạo(biệt danh Cry do lucia gọi) / nii-san(Khi lucia gọi cry là nii-san thì giữ nguyên, không dịch thành "anh trai") | quan hệ anh em |
 | Cry | Tino | ta | em | Cry có địa vị cao hơn Tino |
 | Cry | Eliza | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
 | Cry | em gái cáo | tôi | cô | Quan hệ ngang hàng, không dùng "em" |
