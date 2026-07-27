@@ -167,6 +167,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 皇族 (こうぞく) | Hoàng Tộc | Khái niệm | Dịch thành "Hoàng tộc" |
 | 皇女殿下 (こうじょでんか) | Công chúa Đế quốc | Danh xưng | Không dùng "Điện hạ Hoàng nữ" |
 | 導手 (どうしゅ) | Thuần thú sư | Nghề nghiệp / Khái niệm | Người chỉ huy, thuần hóa ma vật |
+| 占星神秘術院 (せんせいしんぴじゅついん) | Viện Chiêm tinh Huyền bí | Tổ chức / Cơ quan | Cơ quan nhà nước nghiên cứu hiện tượng kỳ bí |
 | 幻影 (ファントム) | Phantom | Khái niệm | Quái vật ảo ảnh xuất hiện trong Đền kho báu |
 | 星神殿 (せいしんでん) | 【Đền Sao Băng】 | Địa điểm | |
 | 聖王殿 (せいおうでん) | 【Sảnh của Thánh Vương】 | Địa điểm | |
