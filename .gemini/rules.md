@@ -95,7 +95,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 
 ### Quy tắc chung:
 - Tên nhân vật **giữ nguyên** theo quy định bên dưới, không tự ý đổi.
-- Nếu tên nhân vật chưa có trong danh sách, **giữ nguyên phiên âm gốc** (romaji, pinyin, hoặc tên gốc).
+- Nếu tên nhân vật chưa có trong danh sách, Hãy tìm bản dịch tên nhân vật trong các chương đã có, nếu không có bản dịch tương ứng thì **giữ nguyên phiên âm gốc** (romaji, pinyin, hoặc tên gốc).
 - Tên nhân vật phải **nhất quán** xuyên suốt bản dịch.
 
 
@@ -134,7 +134,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 
 ## 5. Quy Tắc Dịch Tên Riêng & Thuật Ngữ
 
-> **Nguyên tắc chung**: Ưu tiên **diễn giải bằng tiếng Việt dễ hiểu** thay vì dịch Hán-Việt cứng nhắc. Thuật ngữ game/fantasy nên dịch sao cho người đọc Việt Nam hiểu ngay mà không cần tra cứu. Các thuật ngữ đã phổ biến trong cộng đồng (như Mana Material) thì **giữ nguyên**.
+> **Nguyên tắc chung**: Nếu tên riêng hoặc thuật ngữ chưa có trong danh sách, hãy tìm bản dịch của tên riêng hoặc thuật ngữ đó trong các chương đã có. Nếu không có bản dịch tương ứng thì **ưu tiên diễn giải bằng tiếng Việt dễ hiểu** thay vì dịch Hán-Việt cứng nhắc. Thuật ngữ game/fantasy nên dịch sao cho người đọc Việt Nam hiểu ngay mà không cần tra cứu. Các thuật ngữ đã phổ biến trong cộng đồng (như Mana Material) thì **giữ nguyên**.
 
 ### Danh sách thuật ngữ & tên riêng:
 
